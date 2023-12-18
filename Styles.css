@@ -1,0 +1,55 @@
+body {
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.profile-container{
+    text-align: center ;
+    margin: auto;
+    max-width: 600px;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+
+.profile-container img {
+    border-radius: 50%;
+    max-width: 50%;
+    height: auto; /* Esto asegura que la altura se ajuste automáticamente manteniendo la proporción original */
+    margin-bottom: 10px;
+}
+
+
+.profile-container h2 {
+     color: #FFA500;
+}
+
+.profile-container h3 {
+    color: #FFA500;
+}
+.profile-container p {
+    color: #555;
+}
+
+.profile-container ul {
+    list-style: none;
+    padding: 0;
+}
+
+.profile-container li {
+    margin-bottom: 5px;
+}
+
+footer p {
+    margin: 0;
+}
+    
+a {
+    color: #FFA500;;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #e74c3c;
+}
